@@ -1,0 +1,75 @@
+
+    font-family: Arial;
+}
+
+header {
+    background-color: #333;
+    color: white;
+    text-align: center;
+}
+
+header nav ul {
+    list-style: none;
+    display: flex;
+    justify-content: center;
+    gap: 2em;
+    padding: 0;
+    margin: 0;
+}
+
+footer header nav ul li a {
+    color: red;
+    font-weight: bold;
+}
+#autores {
+       background-color: darkgray; /* Color naranja claro */
+}
+#paso {
+       background-color: sandybrown; /* Color naranja claro */
+}
+#limite {
+       background-color: tan; /* Color naranja claro */
+}
+#noparking {
+       background-color: wheat; /* Color naranja claro */
+}
+#nopassing {
+       background-color: navajowhite; /* Color naranja claro */
+}
+#school {
+       background-color: bisque; /* Color naranja claro */
+}
+#gas {
+       background-color: gainsboro; /* Color naranja claro */
+}
+#stop {
+       background-color: lightcyan; /* Color naranja claro */
+}
+#pedestrians {
+       background-color: lavender; /* Color naranja claro */
+}
+#traffic {
+       background-color: lightsteelblue; /* Color naranja claro */
+}
+#parking {
+       background-color: steelblue; /* Color naranja claro */
+}
+
+footer {
+    background-color: darkslategray;
+    color: white;
+    text-align: center;
+    padding: 5px;
+}
+
+h5 {
+    background-color: darkgray;
+    color: black;
+    text-align: center;
+    padding: 0px;
+}
+     
+h4 {
+    text-align: center;
+}
+
